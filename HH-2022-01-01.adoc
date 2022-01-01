@@ -1,0 +1,52 @@
+= Cybersecurity DIRTY SECRETS Revealed | Hacker Hangouts
+
+== Discription
+After starting in cyber security, 
+you begin to find the skeletons lurking in the office closet 
+and if you go deeper you find those dirty secrets everywhere throughout the entire industry. 
+
+We are going to bring some of these into the light so we can have a discussion about them and maybe talk about what we can do about it. 
+
+== Links
+
+=== Full Video Ep
+
+https://www.youtube.com/watch?v=zLdVXZi-sdU&list=PLTsq16RiHNiBlyz2bLYnMUBrUD_yJ6C-4
+
+=== Follow us on Twitter 
+https://twitter.com/alexchaveriat
+https://twitter.com/Gater_Byte
+https://twitter.com/gregory_price
+https://twitter.com/GuloGuloDesu
+
+https://www.sans.org/cyber-security-certifications/
+
+https://www.giac.org/workforce-development/government/dodd-8570/
+
+https://www.nist.gov/cyberframework
+
+https://www.cmtc.com/blog/iso-9000-vs-9001
+
+https://owasp.org/www-project-web-security-testing-guide/latest/3-The_OWASP_Testing_Framework/1-Penetration_Testing_Methodologies
+
+https://www.franklincovey.com/the-4-disciplines/
+
+https://itrevolution.com/devops-books/
+
+https://inteltechniques.com/links.html
+
+https://inteltechniques.com/vpn.html
+
+https://termius.com/
+
+https://bitwarden.com/
+
+https://keepassxc.org/
+
+https://public.cyber.mil/stigs/
+
+https://bitwarden.com/help/article/is-bitwarden-audited/
+
+https://www.redhat.com/sysadmin/configure-ssh-keygen
+
+https://www.redhat.com/sysadmin/ssh-automation-sshpass
